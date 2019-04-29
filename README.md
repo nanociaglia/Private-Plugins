@@ -33,7 +33,7 @@ Some of the items that i've made (there are more than those items that i'll writ
 # Custom entWatch for CSGO ZR.
 This version wasn't view by anybody yet, because i only have it on my server. It has a lot of fixes for csgo and multiple settings.
 
-# TOP Defenders
+# TOP Defenders for Zombie-Reloaded
 A plugin made by someone (you can search the git repository on google), but i've made some changes like:
 If you are top #1, you'll get immunity in the next round, so you won't be affected by the first infection (you'll pass the first infection to another guy in the server) also with a custom hat (crown)
 
