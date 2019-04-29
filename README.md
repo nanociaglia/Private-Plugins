@@ -97,3 +97,10 @@ Some plugins for SMRPG by Peace-Maker:
 - SMRPG CT Ban: will take levels or XP if you are banned from CT team
 - LastRequest reward: You'll get XP if you are the last T alive, and if you win a LR battle.
 - Zeph's credits (if you levelup, you'll receive credits for zephyrus store)
+
+# EndRoundStopper
+Useful for JB servers. The round won't finish if the time reachs the 00:00. It'll finish only if any of the two teams are killed.
+This was created because if you want to do other stuff when the time reachs 00:00, the round won't finish allowing you to do whatever you want to do (as i said, until any of the two teams are eliminated)
+
+# !noblock / !block
+Allow CTs to activate/deactivate noblock on the server (also 1 cvar to allow only wardens to use this command)
