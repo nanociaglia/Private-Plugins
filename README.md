@@ -20,6 +20,8 @@ Some of the items that i've made (there are more than those items that i'll writ
 - Disguises
 - Throw knives
 - Wallhack
+- Chicken Zombie
+- Knife plant/bomb
 - And a lot of other things
 
 # Custom Zombie Reloaded for CSGO: A custom version for ZR, with some changes like:
