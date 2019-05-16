@@ -2,7 +2,7 @@
 If you are interested, just contact me via:
 
 + Discord: nano#7638
-+ Steam: nano2k06
++ Steam: nano2k06 - Leave a comment in my profile before adding me
 
 
 # List of my plugins on sell:
