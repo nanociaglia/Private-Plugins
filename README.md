@@ -47,6 +47,17 @@ The default HexTags plugin with commands like:
 - !namecolor (change the color of your name)
 - !chatcolor (change the color of the chat messages)
 
+# Hitmarkers
+Two hitmarkers toggleables via commands with clientprefers
+1) !hitmarker to enable/disable it when you shoot zombies (you can use this plugin in any mode)
+2) !bosshm to enable/disable it when you shoot bosses from ZE maps
+
+# Spectate target
+You can spect players using !spec "playername"
+
+# Custom HUD
+With players count in the server, timeleft and nextmap.
+
 # Discord API for your server (live chat, admin logs, map logs, etc)
 - Also you can chat via discord (your messages on discord will appear in your server)
 
