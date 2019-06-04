@@ -39,14 +39,6 @@ This version wasn't view by anybody yet, because i only have it on my server. It
 A plugin made by someone (you can search the git repository on google), but i've made some changes like:
 If you are top #1, you'll get immunity in the next round, so you won't be affected by the first infection (you'll pass the first infection to another guy in the server) also with a custom hat (crown)
 
-# HexTags with chat commands.
-The default HexTags plugin with commands like:
-
-- !tag (change your tag and score tag)
-- !tagcolor (change the color of your tag)
-- !namecolor (change the color of your name)
-- !chatcolor (change the color of the chat messages)
-
 # Hitmarkers
 Two hitmarkers toggleables via commands with clientprefers
 1) !hitmarker to enable/disable it when you shoot zombies (you can use this plugin in any mode)
@@ -64,12 +56,6 @@ With players count in the server, timeleft and nextmap.
 # Leader
 I didn't make this plugin but i've fixed a lot of things also i've made some restrictions for zombies and i've multiple cvars
 Also, i've made a cvar to MUTE people for 1 second if the leader is speaking 
-
-# !adminroom / !stage
-- You can go to the adminroom of any map using !adminroom or !adminroom <player>, also you can change the stages of the map typing: !stage extreme | !stage 3 | !stage hard, etc
-  
-# Custom Mapchooser extended
-- Default mapchooser extended with some modifications like !nomlist (see the nominated maps) and a lot of other things
   
 # Restrict weapons for non-vips
 - You can restrict weapons for non-vips, for example: VIPs can buy a freeze grenade typing !decoy, but non-vips won't be allowed to do this.
