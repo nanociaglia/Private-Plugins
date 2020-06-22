@@ -2,8 +2,8 @@
 If you are interested, just contact me via:
 
 + Discord: nano#7638
-+ Steam: nano2k06 - Leave a comment in my profile before adding me
-
++ Steam: nano2k06 - Leave a comment in my profile before adding me.
+I'm not that good speaking english. I'm so sorry
 
 # List of my plugins on sell:
 
@@ -24,41 +24,60 @@ Some of the items that i've made (there are more than those items that i'll writ
 - Knife plant/bomb
 - And a lot of other things
 
-# Custom Zombie Reloaded for CSGO: A custom version for ZR, with some changes like:
-
-- Buy weapons via commands (!p90, !bizon, etc) agains the zmarket (you can buy weapons via commands and zmarket)
-- Custom first infection sound
-- CSGO Fixes already included
-- A lot of new CVARS
-- Custom strippers and entwatch configs.
-
 # Custom entWatch for CSGO ZR.
-This version wasn't view by anybody yet, because i only have it on my server. It has a lot of fixes for csgo and multiple settings.
+With fixes and new stuff.
 
-# TOP Defenders for Zombie-Reloaded
-A plugin made by someone (you can search the git repository on google), but i've made some changes like:
-If you are top #1, you'll get immunity in the next round, so you won't be affected by the first infection (you'll pass the first infection to another guy in the server) also with a custom hat (crown)
+# TOP Defenders and TOP Infectors for Zombie-Reloaded
+If you are top def #1, you'll get, store credits, skins, crown and motherzombie immunity so you won't be infected in the first place (you'll pass the first infection to another guy in the server). It has other stuffs too.
+For TOP-Infectors, same as above but for zombies. If you are top #1, you'll get an extra-nade in the next round.
+
+# Custom-Chat-Colors for CS:GO
+VIPs will be able to change their color settings, like:
+a) Clan tag
+b) Tag
+c) Tag color
+d) Chat color
+e) Name color
+
+# Console Chat Manager - Plugin base: https://forums.alliedmods.net/showthread.php?p=2375139
+Custom version to print console messages as a HUD message. Useful for zombie escape servers.
+Also you can change console chat colors and some other stuff.
 
 # Hitmarkers
-Two hitmarkers toggleables via commands with clientprefers
-1) !hitmarker to enable/disable it when you shoot zombies (you can use this plugin in any mode)
-2) !bosshm to enable/disable it when you shoot bosses from ZE maps
+Open a menu to enable/disable hitmarker options, like:
+a) Hitmarkers when you shoot an enemy.
+b) Hitmarkers when you shoot any breakable entity on the map (as Bosses, vents, windows, etc)
+c) Hitmarker sound effect when you shoot and the bullet impacts.
+
+# Custom Joinsounds
+When a VIP joins, the server will play a song already chosen before by a VIP. Everybody can hear the music and the VIP who joined too.
+You can setup music per Steam ID using a config file.
+Also a command to toggle ON/OFF joinsound music. Like, if you don't want to hear VIP's music, you can just get it disabled.
+
+# !zammo and Z-Extinguish.
+ZAmmo: Basic plugin to provides infinite ammo to humans if they type !zammo on chat, in exchange of $.... and restricted to be used only X times per round (everything could be configurated properly using cvars)
+Z-Extinguish: Zombies on fire can extinguish it (turn off fire) pressing R on keyboard.
+
+# Showdamage with clientspref support
+People can toggle !sm / !showdamage
 
 # Spectate target
-You can spect players using !spec "playername"
+Useful for zombie escape servers:
+Only 60 seconds of spect time for non-admins.
+You can't go to spec if you are the last human/zombie.
+You can't go to spec if you are mother zombie (only for the first 4 minutes of the round)
+You can type !spec <target name> to spectate him faster.
 
 # Custom HUD
-With players count in the server, timeleft and nextmap.
+Like my TabHudInfo plugin but more complex with a lot of other stuff.
 
 # Discord API for your server (live chat, admin logs, map logs, etc)
-- Also you can chat via discord (your messages on discord will appear in your server)
 
 # Leader
-I didn't make this plugin but i've fixed a lot of things also i've made some restrictions for zombies and i've multiple cvars
-Also, i've made a cvar to MUTE people for 1 second if the leader is speaking 
+I didn't make this plugin but i've fixed a lot of things and i've made some restrictions for zombies. It has new multiple cvars and also, i've made a cvar to MUTE people while leader is speaking.
   
 # Restrict weapons for non-vips
-- You can restrict weapons for non-vips, for example: VIPs can buy a freeze grenade typing !decoy, but non-vips won't be allowed to do this.
+- You can restrict weapons for non-vips, for example: VIPs can buy weapons, but non-vips won't be allowed to do this.
 
 # Spawn with weapons
 Basically, you will spawn with weapons and VIPs will have other weapons too, for example:
@@ -69,7 +88,7 @@ Basically, you will spawn with weapons and VIPs will have other weapons too, for
 This plugin will automatically upload the demos from your server to a FTP (fast download for example)
 You can change the upload extension if you want (.zip, .bz2, .rar, etc)
 
-# Weapon Skins (!ws)
+# Weapon Skins (!ws) - Plugin base: https://github.com/kgns/weapons/tree/master/addons/sourcemod/scripting
 Custom version edited by me. Only VIPs will be allowed to use the Stattrak, float and nametag options in the menu.
 Non-vips will see the item menu as a disabled option.
 
@@ -103,3 +122,5 @@ This was created because if you want to do other stuff when the time reachs 00:0
 
 # !noblock / !block
 Allow CTs to activate/deactivate noblock on the server (also 1 cvar to allow only wardens to use this command)
+
+# A lot of other stuff. If you want more info just contact me.
