@@ -25,51 +25,51 @@ Some of the items that i've made (there are more than those items that i'll writ
 - And a lot of other things
 
 # Custom entWatch for CSGO ZR.
-With fixes and new stuff.
+- With fixes and new stuff.
 
 # TOP Defenders and TOP Infectors for Zombie-Reloaded
-If you are top def #1, you'll get, store credits, skins, crown and motherzombie immunity so you won't be infected in the first place (you'll pass the first infection to another guy in the server). It has other stuffs too.
-For TOP-Infectors, same as above but for zombies. If you are top #1, you'll get an extra-nade in the next round.
+- If you are top def #1, you'll get, store credits, skins, crown and motherzombie immunity so you won't be infected in the first place (you'll pass the first infection to another guy in the server). It has other stuffs too.
+- For TOP-Infectors, same as above but for zombies. If you are top #1, you'll get an extra-nade in the next round.
 
 # Custom-Chat-Colors for CS:GO
 VIPs will be able to change their color settings, like:
-a) Clan tag
-b) Tag
-c) Tag color
-d) Chat color
-e) Name color
+- a) Clan tag
+- b) Tag
+- c) Tag color
+- d) Chat color
+- e) Name color
 
 # Console Chat Manager - Plugin base: https://forums.alliedmods.net/showthread.php?p=2375139
-Custom version to print console messages as a HUD message. Useful for zombie escape servers.
-Also you can change console chat colors and some other stuff.
+- Custom version to print console messages as a HUD message. Useful for zombie escape servers.
+- Also you can change console chat colors and some other stuff.
 
 # Hitmarkers
 Open a menu to enable/disable hitmarker options, like:
-a) Hitmarkers when you shoot an enemy.
-b) Hitmarkers when you shoot any breakable entity on the map (as Bosses, vents, windows, etc)
-c) Hitmarker sound effect when you shoot and the bullet impacts.
+- a) Hitmarkers when you shoot an enemy.
+- b) Hitmarkers when you shoot any breakable entity on the map (as Bosses, vents, windows, etc)
+- c) Hitmarker sound effect when you shoot and the bullet impacts.
 
 # Custom Joinsounds
-When a VIP joins, the server will play a song already chosen before by a VIP. Everybody can hear the music and the VIP who joined too.
-You can setup music per Steam ID using a config file.
-Also a command to toggle ON/OFF joinsound music. Like, if you don't want to hear VIP's music, you can just get it disabled.
+- When a VIP joins, the server will play a song already chosen before by a VIP. Everybody can hear the music and the VIP who joined too.
+- You can setup music per Steam ID using a config file.
+- Also a command to toggle ON/OFF joinsound music. Like, if you don't want to hear VIP's music, you can just get it disabled.
 
 # !zammo and Z-Extinguish.
-ZAmmo: Basic plugin to provides infinite ammo to humans if they type !zammo on chat, in exchange of $.... and restricted to be used only X times per round (everything could be configurated properly using cvars)
-Z-Extinguish: Zombies on fire can extinguish it (turn off fire) pressing R on keyboard.
+- ZAmmo: Basic plugin to provides infinite ammo to humans if they type !zammo on chat, in exchange of $.... and restricted to be used only X times per round (everything could be configurated properly using cvars)
+- Z-Extinguish: Zombies on fire can extinguish it (turn off fire) pressing R on keyboard.
 
 # Showdamage with clientspref support
-People can toggle !sm / !showdamage
+- People can toggle !sm / !showdamage
 
 # Spectate target
 Useful for zombie escape servers:
-Only 60 seconds of spect time for non-admins.
-You can't go to spec if you are the last human/zombie.
-You can't go to spec if you are mother zombie (only for the first 4 minutes of the round)
-You can type !spec <target name> to spectate him faster.
+- Only 60 seconds of spect time for non-admins.
+- You can't go to spec if you are the last human/zombie.
+- You can't go to spec if you are mother zombie (only for the first 4 minutes of the round)
+- You can type !spec <target name> to spectate him faster.
 
 # Custom HUD
-Like my TabHudInfo plugin but more complex with a lot of other stuff.
+- Like my TabHudInfo plugin but more complex with a lot of other stuff.
 
 # Discord API for your server (live chat, admin logs, map logs, etc)
 
