@@ -58,6 +58,10 @@ Open a menu to enable/disable hitmarker options, like:
 - ZAmmo: Basic plugin to provides infinite ammo to humans if they type !zammo on chat, in exchange of $.... and restricted to be used only X times per round (everything could be configurated properly using cvars)
 - Z-Extinguish: Zombies on fire can extinguish it (turn off fire) pressing R on keyboard.
 
+# SelfMuteRadio
+People will be able to open a menu to enable/disable radio text and/or radio sound messages.
+Useful for CS:S and CS:GO.
+
 # Showdamage with clientspref support
 - People can toggle !sm / !showdamage
 
