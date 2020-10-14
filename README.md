@@ -43,7 +43,7 @@ VIPs will be able to change their color settings, like:
 - Custom version to print console messages as a HUD message. Useful for zombie escape servers.
 - Also you can change console chat colors and some other stuff.
 
-# Hitmarkers
+# Hitmarkers - CURRENTLY PUBLIC - CHECK MY REPOS
 Open a menu to enable/disable hitmarker options, like:
 - a) Hitmarkers when you shoot an enemy.
 - b) Hitmarkers when you shoot any breakable entity on the map (as Bosses, vents, windows, etc)
