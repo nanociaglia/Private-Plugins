@@ -10,6 +10,7 @@ I'm not that good speaking english. I'm so sorry
 # Zombie Plague menu: A simple menu based in the zombie plague of cs 1.6. You can buy a lot of awards using credits.
 Some of the items that i've made (there are more than those items that i'll write below)
 
+- (New) Nemesis Rounds!
 - Anti-Infection shield
 - Infinite ammo
 - Infection nade
