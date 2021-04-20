@@ -25,9 +25,6 @@ Some of the items that i've made (there are more than those items that i'll writ
 - Knife plant/bomb
 - And a lot of other things
 
-# Custom entWatch for CSGO ZR.
-- With fixes and new stuff.
-
 # TOP Defenders and TOP Infectors for Zombie-Reloaded
 - If you are top def #1, you'll get, store credits, skins, crown and motherzombie immunity so you won't be infected in the first place (you'll pass the first infection to another guy in the server). It has other stuffs too.
 - For TOP-Infectors, same as above but for zombies. If you are top #1, you'll get an extra-nade in the next round.
@@ -73,10 +70,8 @@ Useful for zombie escape servers:
 - You can't go to spec if you are mother zombie (only for the first 4 minutes of the round)
 - You can type !spec <target name> to spectate him faster.
 
-# Custom HUD
+# Custom HUD - CURRENTLY PUBLIC - CHECK MY REPOS
 - Like my TabHudInfo plugin but more complex with a lot of other stuff.
-
-# Discord API for your server (live chat, admin logs, map logs, etc)
 
 # Leader
 I didn't make this plugin but i've fixed a lot of things and i've made some restrictions for zombies. It has new multiple cvars and also, i've made a cvar to MUTE people while leader is speaking.
@@ -103,9 +98,6 @@ Non-vips will see the item menu as a disabled option.
 
 # Double Jump and Gravity for Zephyrus store
 Basically, skills (double jump and gravity) for Zeph's store (with CVars to enable/disable them)
-
-# Custom HL Gangs
-Plugin made by Headline, but i've re-edited A LOT of things of the plugin. If you want to know more about of this plugin, contact me.
 
 # Jail-Awards
 Plugin made by Franc1sco, but i've re-edited (and added) a lot of things too.
