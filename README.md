@@ -3,9 +3,18 @@ If you are interested, just contact me via:
 
 + Discord: nano#7638
 + Steam: nano2k06 - Leave a comment in my profile before adding me.
-I'm not that good speaking english. I'm so sorry
 
 # List of my plugins on sell:
+
+# (NEW) Automix/Automatch for CS:S
+
+- !r/!ready system.
+- Captains knife fight.
+- 5vs5 second knife fight.
+- Some other stuff (ask me)
+
+# (NEW) Retakes for CS:S
+- Do you know the Retakes plugin for CS:GO? I’ve designed Retakes that works in CS:S. Ask me for more info.
 
 # Zombie Plague menu: A simple menu based in the zombie plague of cs 1.6. You can buy a lot of awards using credits.
 Some of the items that i've made (there are more than those items that i'll write below)
